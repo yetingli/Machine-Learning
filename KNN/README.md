@@ -4,7 +4,7 @@
 > > >
 > > > ​	给定测试样本，基于某种距离度量找出training set中与其最靠近的k个样本，然后基于这k个‘邻居’的信息进行预测，是典型的基于实例学习（instance-based learning）和懒惰学习（lazy learning）。
 > > >
-> > > ![KNN示意图](D:\1.png)
+> > > ![KNN示意图](https://github.com/yetingli/Machine-Learning/blob/master/KNN/knn.png)
 > > >
 > > > **2.三要素**
 > > >
